@@ -1,0 +1,11 @@
+{
+    "name": "exporting",
+    "type": "module",
+    "exports": {
+        ".": {
+            "types": "./types/main.d.ts",
+            "require": "./require/main.cjs",
+            "import": "./import/main.mjs"
+        }
+    }
+}

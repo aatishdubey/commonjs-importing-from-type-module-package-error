@@ -1,0 +1,7 @@
+{
+    "name": "importing",
+    "type": "commonjs",
+    "dependencies": {
+        "exporting": "../exporting"
+    }
+}
